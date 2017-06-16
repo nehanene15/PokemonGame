@@ -1,0 +1,1460 @@
+Round 1:
+Combatants: 800
+-----Leaders-----
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+MewtwoMega Mewtwo Y     [Type: Psychic][ HP: 106]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+
+Begin!
+Luxray defeats Rhyhorn.
+AltariaMega Altaria defeats Snorunt.
+Fearow defeats Wailord.
+Victreebel defeats Spoink.
+Plusle defeats Sandslash.
+Ninjask defeats Simisear.
+GiratinaAltered Forme defeats Happiny.
+Xerneas defeats Solrock.
+Hitmontop defeats Omanyte.
+MeloettaAria Forme defeats Yanmega.
+Lunatone defeats Crustle.
+DeoxysAttack Forme defeats Tyrunt.
+Simipour defeats Eelektrik.
+Vulpix defeats Igglybuff.
+Lickilicky defeats Prinplup.
+Petilil defeats Slugma.
+Umbreon defeats Paras.
+Sylveon defeats Pidgey.
+Larvesta defeats Trubbish.
+Rapidash defeats Vanillite.
+Gligar defeats Aromatisse.
+Parasect defeats Cherubi.
+SceptileMega Sceptile defeats Rampardos.
+AerodactylMega Aerodactyl defeats Relicanth.
+HeracrossMega Heracross defeats Surskit.
+Excadrill defeats Metang.
+Tauros defeats Klang.
+Skiploom defeats Dustox.
+Arcanine defeats Xatu.
+Aipom defeats Aron.
+Probopass defeats Combee.
+Bayleef defeats Onix.
+Porygon defeats Venonat.
+Banette defeats Loudred.
+Hippopotas defeats Spheal.
+Heliolisk defeats Slakoth.
+Smoochum defeats Chingling.
+Audino defeats Shellder.
+GarchompMega Garchomp defeats Snivy.
+Lairon defeats Chansey.
+Rhyperior defeats Throh.
+Masquerain defeats Trapinch.
+Karrablast defeats Vespiquen.
+Tyrantrum defeats Marowak.
+Kricketune defeats Lotad.
+DarmanitanStandard Mode defeats Shelmet.
+Leafeon defeats Armaldo.
+Sawk defeats Deerling.
+ShayminLand Forme defeats Sunkern.
+LandorusIncarnate Forme defeats Kakuna.
+Squirtle defeats Ledyba.
+Litleo defeats PumpkabooSuper Size.
+Lucario defeats Hitmonlee.
+AlakazamMega Alakazam defeats Nuzleaf.
+Kyurem defeats Drifblim.
+Archeops defeats Magby.
+Lugia defeats Tyranitar.
+Drilbur defeats Sandshrew.
+Poliwhirl defeats Shuckle.
+Gorebyss defeats Gothorita.
+LatiosMega Latios defeats Walrein.
+Minun defeats Musharna.
+Woobat defeats Duosion.
+Nidoqueen defeats Riolu.
+Phione defeats Fraxure.
+Crawdaunt defeats WormadamTrash Cloak.
+Emolga defeats Swirlix.
+MewtwoMega Mewtwo Y defeats MeowsticMale.
+Victini defeats Chesnaught.
+GourgeistSuper Size defeats Goomy.
+Noctowl defeats Klink.
+Combusken defeats Vullaby.
+Bellsprout defeats Bunnelby.
+KeldeoOrdinary Forme defeats Monferno.
+Manaphy defeats Gogoat.
+Swoobat defeats RotomFrost Rotom.
+Abomasnow defeats Skiddo.
+Swablu defeats Poochyena.
+Regice defeats Skorupi.
+RotomMow Rotom defeats Shellos.
+Milotic defeats Skarmory.
+Electivire defeats Pachirisu.
+PidgeotMega Pidgeot defeats Amoonguss.
+Accelgor defeats Eevee.
+Zekrom defeats Slowking.
+Braixen defeats Floette.
+Pelipper defeats Pichu.
+Weavile defeats Claydol.
+Togekiss defeats Stunfisk.
+Altaria defeats Magnezone.
+Jumpluff defeats Yamask.
+Regigigas defeats Scrafty.
+LopunnyMega Lopunny defeats Horsea.
+Persian defeats Drapion.
+Starmie defeats Dodrio.
+Grovyle defeats Dragonair.
+Phanpy defeats Whismur.
+Doduo defeats Snubbull.
+RotomWash Rotom defeats Beheeyem.
+Zebstrika defeats Misdreavus.
+Fletchling defeats Wobbuffet.
+Druddigon defeats Larvitar.
+Slaking defeats Bibarel.
+Golem defeats Fennekin.
+Froakie defeats Cubchoo.
+Breloom defeats Bellossom.
+Nidoran♂ defeats Lickitung.
+Latios defeats AegislashShield Forme.
+MeloettaPirouette Forme defeats Zubat.
+Spearow defeats Bulbasaur.
+Magmar defeats Diggersby.
+Garbodor defeats Treecko.
+KeldeoResolute Forme defeats Braviary.
+DeoxysSpeed Forme defeats Taillow.
+Delcatty defeats Wurmple.
+Watchog defeats Pineco.
+Mienshao defeats Dugtrio.
+KyogrePrimal Kyogre defeats Zoroark.
+Malamar defeats Chimecho.
+Herdier defeats Zigzagoon.
+Ditto defeats Silcoon.
+GiratinaOrigin Forme defeats Kabutops.
+BlazikenMega Blaziken defeats Porygon2.
+HoopaHoopa Unbound defeats Klinklang.
+Eelektross defeats Cradily.
+Unown defeats Ducklett.
+Talonflame defeats Cinccino.
+Wartortle defeats Tirtouga.
+Durant defeats Spritzee.
+Chatot defeats Lapras.
+Blastoise defeats Zorua.
+Volcanion defeats Blissey.
+Garchomp defeats Wigglytuff.
+Lillipup defeats Clamperl.
+HoopaHoopa Confined defeats Starly.
+Venomoth defeats Trevenant.
+Azelf defeats Dusknoir.
+Houndour defeats Poliwag.
+Meganium defeats Rufflet.
+Emboar defeats Kecleon.
+Bouffalant defeats Beldum.
+Drifloon defeats Nidorina.
+Machop defeats Flabébé.
+Bisharp defeats Vileplume.
+Shelgon defeats Machoke.
+Simisage defeats Tympole.
+Absol defeats Delibird.
+Sharpedo defeats Gible.
+Genesect defeats Growlithe.
+Granbull defeats Caterpie.
+MedichamMega Medicham defeats Marill.
+MawileMega Mawile defeats Croconaw.
+Maractus defeats Volbeat.
+Hypno defeats Seel.
+Roserade defeats Shedinja.
+Chandelure defeats Gloom.
+DiancieMega Diancie defeats Scatterbug.
+Glalie defeats Kabuto.
+BanetteMega Banette defeats RotomHeat Rotom.
+Blaziken defeats Feraligatr.
+Kangaskhan defeats Pansage.
+AegislashBlade Forme defeats Dwebble.
+LatiasMega Latias defeats Foongus.
+Pikachu defeats Tyrogue.
+Medicham defeats Teddiursa.
+Seismitoad defeats Camerupt.
+PumpkabooLarge Size defeats Nosepass.
+Arbok defeats Krokorok.
+Yveltal defeats Houndoom.
+GourgeistAverage Size defeats Cacturne.
+Doublade defeats Graveler.
+Cloyster defeats Heatmor.
+KyuremWhite Kyurem defeats Floatzel.
+BeedrillMega Beedrill defeats Chinchou.
+SwampertMega Swampert defeats Weepinbell.
+Heracross defeats Staravia.
+Articuno is legendary and continues to next round. 
+Lilligant defeats Zweilous.
+Jirachi defeats Tepig.
+Staraptor defeats Bastiodon.
+Huntail defeats Slowpoke.
+Rayquaza defeats Ralts.
+Jigglypuff defeats Azurill.
+Cranidos defeats Gothita.
+Ambipom defeats Ferrothorn.
+Swinub defeats Cottonee.
+RayquazaMega Rayquaza defeats Krookodile.
+Luxio defeats Noibat.
+Kyogre defeats Sudowoodo.
+Basculin defeats Cascoon.
+Clauncher defeats Cubone.
+GroudonPrimal Groudon defeats Gulpin.
+LandorusTherian Forme defeats Clefable.
+Ekans defeats Magnemite.
+Swellow defeats Lanturn.
+Gardevoir defeats Inkay.
+Haunter defeats Hoppip.
+Jellicent defeats SlowbroMega Slowbro.
+Purrloin defeats Metapod.
+Samurott defeats Kirlia.
+Sableye defeats Binacle.
+DeoxysNormal Forme defeats HoundoomMega Houndoom.
+Tranquill defeats Munna.
+Haxorus defeats Mew.
+Seadra defeats Reuniclus.
+Snorlax defeats Togetic.
+Ponyta defeats Carracosta.
+Vanilluxe defeats Frillish.
+ManectricMega Manectric defeats CharizardMega Charizard Y.
+Furfrou defeats Rotom.
+ShayminSky Forme defeats Golett.
+Celebi defeats Timburr.
+Gastly defeats Burmy.
+Gothitelle defeats Corphish.
+GourgeistSmall Size defeats Totodile.
+Beedrill defeats Exeggcute.
+Qwilfish defeats Dewott.
+Gengar defeats SteelixMega Steelix.
+Ivysaur defeats Drowzee.
+Metagross defeats Honchkrow.
+Palkia defeats Boldore.
+Electabuzz defeats Goodra.
+Sandile defeats Magcargo.
+Mudkip defeats Baltoy.
+Dewgong defeats Wynaut.
+Flygon defeats Seedot.
+Frogadier defeats Vibrava.
+Barbaracle defeats Escavalier.
+PinsirMega Pinsir defeats Munchlax.
+Seaking defeats Togepi.
+Suicune defeats Vigoroth.
+Aggron defeats Bonsly.
+Arceus defeats Sliggoo.
+Klefki defeats Natu.
+Dialga defeats Grotle.
+AbsolMega Absol defeats Slowbro.
+Rattata defeats PumpkabooAverage Size.
+Porygon-Z defeats Lumineon.
+Beartic defeats Palpitoad.
+Poliwrath defeats Diglett.
+Pangoro defeats Chespin.
+Charizard defeats Lombre.
+Slurpuff defeats Torkoal.
+Aerodactyl defeats Feebas.
+Beautifly defeats Omastar.
+TornadusIncarnate Forme defeats Wingull.
+Gastrodon defeats Scraggy.
+Nidoking defeats Skuntank.
+Goldeen defeats Kricketot.
+Kingler defeats Numel.
+Toxicroak defeats Pupitar.
+Registeel is legendary and continues to next round. 
+Moltres defeats Zangoose.
+Illumise defeats Joltik.
+Mewtwo defeats Axew.
+Piloswine defeats Bagon.
+Mankey defeats Lampent.
+Stunky defeats Mawile.
+Typhlosion defeats Roggenrola.
+Whirlipede defeats Pidove.
+Diancie defeats Budew.
+Exploud defeats Donphan.
+SharpedoMega Sharpedo defeats Dragalge.
+Lopunny defeats Pignite.
+Magneton defeats Avalugg.
+Blitzle defeats Venipede.
+Rhydon defeats Spewpa.
+BlastoiseMega Blastoise defeats Corsola.
+Tangela defeats Cyndaquil.
+TyranitarMega Tyranitar defeats Gliscor.
+Dedenne defeats Sunflora.
+Pidgeot defeats Spinarak.
+Terrakion defeats Flaaffy.
+Mienfoo defeats Skitty.
+Wailmer defeats Krabby.
+Mothim defeats Machamp.
+Purugly defeats Dusclops.
+Infernape defeats Deino.
+Cherrim defeats Marshtomp.
+Furret defeats SableyeMega Sableye.
+MewtwoMega Mewtwo X defeats Shiftry.
+Yanma defeats Patrat.
+Cobalion defeats Carnivine.
+Mantine defeats Nidoran♀.
+Torchic defeats Carbink.
+KangaskhanMega Kangaskhan defeats Forretress.
+Amaura defeats Ferroseed.
+Hitmonchan defeats Quilladin.
+Hydreigon defeats Pinsir.
+SalamenceMega Salamence defeats Honedge.
+Virizion defeats Electrike.
+Fletchinder defeats Gurdurr.
+Vivillon defeats Darumaka.
+Primeape defeats AmpharosMega Ampharos.
+AbomasnowMega Abomasnow defeats Clefairy.
+Magmortar defeats Elgyem.
+Mightyena defeats Golurk.
+Girafarig defeats Chimchar.
+Unfezant defeats Conkeldurr.
+Regirock is legendary and continues to next round. 
+Geodude defeats Makuhita.
+Raikou defeats Mismagius.
+Uxie is legendary and continues to next round. 
+Kadabra defeats Magikarp.
+AggronMega Aggron defeats Pancham.
+Spiritomb defeats Shinx.
+Quilava defeats Espurr.
+Tentacruel defeats Politoed.
+Whimsicott defeats Archen.
+ScizorMega Scizor defeats Glaceon.
+CameruptMega Camerupt defeats Shroomish.
+Snover defeats Mantyke.
+Panpour defeats Cofagrigus.
+Espeon defeats Tropius.
+GourgeistLarge Size defeats Charmander.
+Zygarde50% Forme defeats DarmanitanZen Mode.
+Zapdos defeats Muk.
+Flareon defeats Quagsire.
+Pyroar defeats Pansear.
+PumpkabooSmall Size defeats Oddish.
+Ho-oh defeats Spinda.
+KyuremBlack Kyurem defeats Litwick.
+Heatran defeats Weezing.
+Whiscash defeats Abra.
+Alakazam defeats Farfetch'd.
+Castform defeats Ampharos.
+Ursaring defeats Tynamo.
+Liepard defeats Stoutland.
+Reshiram defeats Raichu.
+Gallade defeats Cleffa.
+Turtwig defeats Grimer.
+Aurorus defeats Buneary.
+Sceptile defeats Meowth.
+RotomFan Rotom defeats Luvdisc.
+Roselia defeats Swadloon.
+Gyarados defeats Pidgeotto.
+Scolipede defeats Grumpig.
+Raticate defeats Seviper.
+Serperior defeats Shieldon.
+Crobat defeats Croagunk.
+Golbat defeats Skrelp.
+Hawlucha defeats Cryogonal.
+TornadusTherian Forme defeats Steelix.
+Noivern defeats Swampert.
+VenusaurMega Venusaur defeats Electrode.
+ThundurusTherian Forme defeats Hariyama.
+Nidorino defeats Wooper.
+Hippowdon defeats Oshawott.
+Miltank defeats Bronzong.
+Cacnea defeats Weedle.
+Jolteon defeats Sneasel.
+Kingdra defeats Clawitzer.
+Jynx defeats Remoraid.
+Staryu defeats Lileep.
+Mesprit defeats Duskull.
+Groudon defeats GyaradosMega Gyarados.
+AudinoMega Audino defeats Dratini.
+Florges defeats Minccino.
+Chikorita defeats Bronzor.
+Charmeleon defeats Nincada.
+Butterfree defeats WormadamSandy Cloak.
+ThundurusIncarnate Forme defeats Cresselia.
+Psyduck defeats Smeargle.
+Leavanny defeats Mandibuzz.
+Galvantula defeats Gigalith.
+Darkrai defeats Linoone.
+DeoxysDefense Forme is legendary and continues to next round. 
+Salamence defeats Glameow.
+Swalot defeats Finneon.
+Manectric defeats Piplup.
+Vaporeon defeats Tentacool.
+GengarMega Gengar defeats Shuppet.
+MeowsticFemale defeats Voltorb.
+GlalieMega Glalie defeats Ledian.
+Scyther defeats Phantump.
+Buizel defeats Azumarill.
+Entei defeats Bidoof.
+Vanillish defeats Mareep.
+Koffing defeats Bergmite.
+Volcarona defeats Sigilyph.
+CharizardMega Charizard X defeats Sealeo.
+Exeggutor defeats Pawniard.
+Golduck defeats Dunsparce.
+Mamoswine defeats Sawsbuck.
+Delphox defeats Alomomola.
+Elekid defeats WormadamPlant Cloak.
+Scizor defeats Anorith.
+Greninja defeats Gabite.
+Mr. Mime defeats Hoothoot.
+Empoleon defeats Barboach.
+Dragonite defeats Torterra.
+Carvanha defeats Helioptile.
+Ninetales defeats Servine.
+MetagrossMega Metagross defeats Stantler.
+Swanna defeats Sentret.
+Murkrow defeats Ariados.
+LucarioMega Lucario defeats Mime Jr..
+Octillery defeats Sewaddle.
+Ludicolo defeats Solosis.
+Tangrowth defeats Meditite.
+
+
+Round 2:
+Combatants: 405
+-----Leaders-----
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+MewtwoMega Mewtwo Y     [Type: Psychic][ HP: 106]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+
+Begin!
+DeoxysNormal Forme automatically advances.
+Nidoking defeats Petilil.
+Kingdra defeats Ninetales.
+Tyrantrum defeats Phanpy.
+Talonflame defeats Swalot.
+Starmie defeats Vivillon.
+Girafarig defeats Blitzle.
+MawileMega Mawile defeats Probopass.
+MewtwoMega Mewtwo Y defeats Geodude.
+Froslass defeats Manectric.
+Venusaur defeats Beartic.
+Lopunny defeats Watchog.
+Galvantula defeats Seaking.
+SalamenceMega Salamence defeats Bouffalant.
+Jellicent defeats AbomasnowMega Abomasnow.
+Ho-oh defeats GourgeistSmall Size.
+Hypno defeats Audino.
+Haxorus defeats Snover.
+Accelgor defeats Cranidos.
+DeoxysSpeed Forme defeats Ursaring.
+Arceus defeats Lairon.
+Litleo defeats Shelgon.
+Jirachi is legendary and continues to next round. 
+Skiploom defeats Spearow.
+Emolga defeats Banette.
+Zygarde50% Forme defeats Granbull.
+Raticate defeats Beautifly.
+Larvesta defeats Sableye.
+Jolteon defeats Togekiss.
+Kyogre is legendary and continues to next round. 
+Ninjask defeats Swellow.
+ShayminLand Forme is legendary and continues to next round. 
+AegislashBlade Forme defeats Braixen.
+LandorusTherian Forme is legendary and continues to next round. 
+MeloettaAria Forme defeats HeracrossMega Heracross.
+GlalieMega Glalie defeats GarchompMega Garchomp.
+Empoleon defeats CameruptMega Camerupt.
+KyogrePrimal Kyogre defeats Tranquill.
+Mightyena defeats Snorlax.
+Venomoth defeats BlastoiseMega Blastoise.
+Delphox defeats Cloyster.
+Regigigas defeats Hawlucha.
+Uxie is legendary and continues to next round. 
+Furfrou defeats Toxicroak.
+Garchomp defeats Simipour.
+Rayquaza is legendary and continues to next round. 
+Qwilfish defeats SwampertMega Swampert.
+Electabuzz defeats Poliwrath.
+Serperior defeats Panpour.
+Slaking defeats Simisage.
+Azelf defeats Chikorita.
+Yveltal defeats Squirtle.
+Staraptor defeats Hippopotas.
+Mewtwo defeats Mienfoo.
+Yanma defeats Gorebyss.
+Gyarados defeats AltariaMega Altaria.
+Raikou defeats Slurpuff.
+KyuremWhite Kyurem is legendary and continues to next round. 
+Sharpedo defeats Eelektross.
+Durant defeats Vanilluxe.
+Entei is legendary and continues to next round. 
+Basculin defeats Porygon.
+Volcanion is legendary and continues to next round. 
+LucarioMega Lucario defeats Froakie.
+Furret defeats Victreebel.
+Flygon defeats PumpkabooLarge Size.
+PidgeotMega Pidgeot defeats GourgeistSuper Size.
+Rapidash defeats Combusken.
+Gothitelle defeats Aggron.
+Barbaracle defeats Pikachu.
+Heatran defeats Celebi.
+Scolipede defeats Swoobat.
+Pidgeot defeats Doublade.
+Roselia defeats Amaura.
+Ponyta defeats Poliwhirl.
+Masquerain defeats Turtwig.
+Malamar defeats Cacnea.
+Porygon-Z defeats Arbok.
+AlakazamMega Alakazam defeats LopunnyMega Lopunny.
+Genesect defeats Cherrim.
+Scyther defeats Blastoise.
+MeowsticFemale defeats Swanna.
+Phione defeats Carvanha.
+Xerneas is legendary and continues to next round. 
+Espeon defeats Mamoswine.
+Groudon defeats Houndour.
+Gengar defeats Dewgong.
+Darkrai defeats Infernape.
+Klefki defeats Woobat.
+Latias defeats Mienshao.
+Mesprit defeats Koffing.
+Fletchinder defeats Kangaskhan.
+BlazikenMega Blaziken defeats Milotic.
+VenusaurMega Venusaur defeats Castform.
+Cobalion defeats Swinub.
+Chandelure defeats Mudkip.
+Arcanine defeats Sceptile.
+Excadrill defeats Haunter.
+Gligar defeats Golbat.
+Sawk defeats Nidoqueen.
+DeoxysDefense Forme is legendary and continues to next round. 
+Greninja defeats Ambipom.
+ScizorMega Scizor defeats Glalie.
+Maractus defeats Doduo.
+Bisharp defeats Vulpix.
+Jynx defeats Umbreon.
+GroudonPrimal Groudon defeats Ditto.
+Heracross defeats Scizor.
+Kyurem defeats Golem.
+Vanillish defeats Jigglypuff.
+Mr. Mime defeats Pangoro.
+Victini defeats Purrloin.
+KeldeoResolute Forme defeats Noctowl.
+LatiasMega Latias defeats Tangrowth.
+Sylveon defeats Swablu.
+SharpedoMega Sharpedo defeats Seismitoad.
+Wailmer defeats Herdier.
+HoopaHoopa Unbound defeats Beedrill.
+Blaziken defeats Stunky.
+Dialga defeats Psyduck.
+Chatot defeats Gastly.
+GalladeMega Gallade defeats Lucario.
+Palkia defeats GengarMega Gengar.
+Archeops defeats Ekans.
+RotomFan Rotom defeats Piloswine.
+MedichamMega Medicham defeats Hippowdon.
+Garbodor defeats Aurorus.
+GiratinaAltered Forme is legendary and continues to next round. 
+Regirock is legendary and continues to next round. 
+Magmar defeats Lickilicky.
+Mothim defeats AggronMega Aggron.
+Suicune is legendary and continues to next round. 
+Salamence defeats Illumise.
+DiancieMega Diancie defeats Rhyperior.
+Minun defeats Quilava.
+Butterfree defeats Mantine.
+Purugly defeats KeldeoOrdinary Forme.
+Virizion defeats Aerodactyl.
+MeloettaPirouette Forme defeats PumpkabooSmall Size.
+Magmortar defeats Octillery.
+AbsolMega Absol defeats Rattata.
+Dragonite defeats BanetteMega Banette.
+ManectricMega Manectric defeats Jumpluff.
+Altaria defeats Pyroar.
+Volcarona defeats Unfezant.
+Terrakion is legendary and continues to next round. 
+Medicham defeats Whirlipede.
+DarmanitanStandard Mode defeats Abomasnow.
+Huntail defeats Pelipper.
+SceptileMega Sceptile defeats Bellsprout.
+Articuno is legendary and continues to next round. 
+Absol defeats Meganium.
+Leavanny defeats Luxio.
+Weavile defeats Clauncher.
+Murkrow defeats Breloom.
+Grovyle defeats Gallade.
+RotomMow Rotom defeats Wartortle.
+KangaskhanMega Kangaskhan defeats Smoochum.
+Latios defeats Spiritomb.
+Torchic defeats Parasect.
+Dedenne defeats Goldeen.
+Heliolisk defeats Delcatty.
+Zekrom defeats GourgeistLarge Size.
+Kricketune defeats AudinoMega Audino.
+RotomWash Rotom defeats Flareon.
+ShayminSky Forme defeats Crawdaunt.
+KyuremBlack Kyurem is legendary and continues to next round. 
+Diancie is legendary and continues to next round. 
+Staryu defeats Machop.
+Ludicolo defeats Drilbur.
+Exeggutor defeats Druddigon.
+Kadabra defeats Nidoran♂.
+Elekid defeats Whiscash.
+Roserade defeats Hitmontop.
+HoopaHoopa Confined is legendary and continues to next round. 
+GardevoirMega Gardevoir defeats Typhlosion.
+Sandile defeats Rhydon.
+Regice is legendary and continues to next round. 
+Florges defeats Lillipup.
+MewtwoMega Mewtwo X defeats Luxray.
+TyranitarMega Tyranitar defeats Samurott.
+Tentacruel defeats Electivire.
+Tangela defeats Gastrodon.
+ThundurusIncarnate Forme defeats Miltank.
+AerodactylMega Aerodactyl defeats Fletchling.
+Moltres defeats Drifloon.
+Registeel is legendary and continues to next round. 
+Hydreigon defeats Nidorino.
+Zapdos is legendary and continues to next round. 
+RayquazaMega Rayquaza defeats Alakazam.
+CharizardMega Charizard X defeats Ivysaur.
+LandorusIncarnate Forme defeats Charmeleon.
+GiratinaOrigin Forme defeats Karrablast.
+PinsirMega Pinsir defeats Gardevoir.
+Charizard defeats Kingler.
+BeedrillMega Beedrill defeats Lilligant.
+GourgeistAverage Size defeats Lunatone.
+Primeape defeats Seadra.
+Buizel defeats Vaporeon.
+Plusle defeats Exploud.
+LatiosMega Latios defeats Persian.
+Liepard defeats Unown.
+Frogadier defeats Mankey.
+
+
+Round 3:
+Combatants: 225
+-----Leaders-----
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Ninjask     [Type: Bug/Flying][ HP: 61]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+Noivern     [Type: Flying/Dragon][ HP: 85]
+
+Begin!
+DeoxysAttack Forme automatically advances.
+Purugly defeats Furret.
+Froslass defeats Leavanny.
+Flygon defeats Fletchinder.
+HoopaHoopa Unbound defeats Fearow.
+LatiasMega Latias defeats Gligar.
+Delphox defeats PinsirMega Pinsir.
+Jolteon defeats Empoleon.
+Zygarde50% Forme defeats Hypno.
+MeloettaPirouette Forme defeats Hydreigon.
+GiratinaOrigin Forme is legendary and continues to next round. 
+DiancieMega Diancie defeats Staraptor.
+BeedrillMega Beedrill defeats Mothim.
+Latios is legendary and continues to next round. 
+Venomoth defeats Archeops.
+ThundurusTherian Forme defeats Magmortar.
+Registeel is legendary and continues to next round. 
+LatiosMega Latios defeats Dragonite.
+Mewtwo defeats MawileMega Mawile.
+Golduck defeats Magneton.
+Dedenne defeats Ludicolo.
+Ninjask defeats Chatot.
+Whimsicott defeats Volcarona.
+Crobat defeats Emolga.
+SharpedoMega Sharpedo defeats Bisharp.
+AerodactylMega Aerodactyl defeats Lopunny.
+Diancie is legendary and continues to next round. 
+Gyarados defeats Excadrill.
+HoopaHoopa Confined is legendary and continues to next round. 
+KyuremWhite Kyurem is legendary and continues to next round. 
+Jirachi is legendary and continues to next round. 
+Moltres defeats Barbaracle.
+Heatran is legendary and continues to next round. 
+DeoxysSpeed Forme defeats Venusaur.
+Nidoking defeats Skiploom.
+Espeon defeats Zebstrika.
+GiratinaAltered Forme is legendary and continues to next round. 
+Articuno is legendary and continues to next round. 
+GlalieMega Glalie defeats Charizard.
+Scolipede defeats Torchic.
+Greninja defeats Arcanine.
+GardevoirMega Gardevoir defeats MedichamMega Medicham.
+Garchomp defeats Elekid.
+Kyogre is legendary and continues to next round. 
+Suicune is legendary and continues to next round. 
+Kyurem is legendary and continues to next round. 
+Genesect defeats Staryu.
+Jynx defeats Absol.
+AbsolMega Absol defeats Basculin.
+Haxorus defeats Metagross.
+Dialga is legendary and continues to next round. 
+Zapdos is legendary and continues to next round. 
+Kadabra defeats Maractus.
+Plusle defeats Exeggutor.
+KyuremBlack Kyurem is legendary and continues to next round. 
+GourgeistAverage Size defeats Tyrantrum.
+Reshiram is legendary and continues to next round. 
+Malamar defeats Sandile.
+Qwilfish defeats Buizel.
+LandorusTherian Forme is legendary and continues to next round. 
+TornadusIncarnate Forme defeats Scyther.
+Regirock is legendary and continues to next round. 
+Darkrai defeats Masquerain.
+Noivern defeats AlakazamMega Alakazam.
+Uxie is legendary and continues to next round. 
+DeoxysNormal Forme defeats Sylveon.
+GalladeMega Gallade defeats Emboar.
+Altaria defeats Girafarig.
+Primeape defeats Murkrow.
+Regigigas is legendary and continues to next round. 
+Arceus defeats CharizardMega Charizard X.
+KyogrePrimal Kyogre defeats Pidgeot.
+TyranitarMega Tyranitar defeats RotomFan Rotom.
+Kingdra defeats Klefki.
+LandorusIncarnate Forme defeats Butterfree.
+Rayquaza is legendary and continues to next round. 
+Serperior defeats Raticate.
+Leafeon defeats Minun.
+Palkia defeats Aipom.
+RotomWash Rotom defeats Mr. Mime.
+Bayleef defeats Huntail.
+Yveltal is legendary and continues to next round. 
+SalamenceMega Salamence defeats Medicham.
+Accelgor defeats Blaziken.
+GroudonPrimal Groudon is legendary and continues to next round. 
+Sawk defeats Roselia.
+Grovyle defeats Frogadier.
+Regice is legendary and continues to next round. 
+ThundurusIncarnate Forme defeats Durant.
+Starmie defeats Rapidash.
+Talonflame defeats Galvantula.
+MewtwoMega Mewtwo Y defeats Tauros.
+ShayminLand Forme is legendary and continues to next round. 
+Slaking defeats Kricketune.
+TornadusTherian Forme defeats MetagrossMega Metagross.
+Volcanion defeats Vanillish.
+Mesprit is legendary and continues to next round. 
+Cobalion defeats Chandelure.
+MewtwoMega Mewtwo X defeats Tentacruel.
+DarmanitanStandard Mode defeats Jellicent.
+Terrakion is legendary and continues to next round. 
+DeoxysDefense Forme is legendary and continues to next round. 
+Liepard defeats Florges.
+Entei is legendary and continues to next round. 
+Groudon defeats Wailmer.
+Virizion defeats RotomMow Rotom.
+Heracross defeats Hitmonchan.
+Xerneas is legendary and continues to next round. 
+SceptileMega Sceptile defeats Yanma.
+Ho-oh defeats Phione.
+Victini defeats ScizorMega Scizor.
+MeloettaAria Forme defeats Roserade.
+Magmar defeats Heliolisk.
+
+
+Round 4:
+Combatants: 144
+-----Leaders-----
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+BeedrillMega Beedrill     [Type: Bug/Poison][ HP: 65]
+Ninjask     [Type: Bug/Flying][ HP: 61]
+MewtwoMega Mewtwo Y     [Type: Psychic][ HP: 106]
+
+Begin!
+GlalieMega Glalie defeats Litleo.
+Garchomp defeats KangaskhanMega Kangaskhan.
+Talonflame defeats Espeon.
+Raikou defeats ManectricMega Manectric.
+Reshiram is legendary and continues to next round. 
+Suicune is legendary and continues to next round. 
+Lugia is legendary and continues to next round. 
+Cobalion is legendary and continues to next round. 
+DiancieMega Diancie defeats Kingdra.
+KyogrePrimal Kyogre defeats Qwilfish.
+LucarioMega Lucario defeats RotomWash Rotom.
+Manaphy defeats Heracross.
+Dialga is legendary and continues to next round. 
+Darkrai defeats Leafeon.
+PidgeotMega Pidgeot defeats Sawk.
+ThundurusTherian Forme is legendary and continues to next round. 
+VenusaurMega Venusaur finally vanquishes legendary Registeel.
+Zekrom is legendary and continues to next round. 
+Mesprit is legendary and continues to next round. 
+Scolipede defeats Serperior.
+Ho-oh is legendary and continues to next round. 
+Purugly defeats Sharpedo.
+Ninjask defeats TyranitarMega Tyranitar.
+DeoxysSpeed Forme defeats KeldeoResolute Forme.
+GroudonPrimal Groudon is legendary and continues to next round. 
+ShayminLand Forme is legendary and continues to next round. 
+Entei is legendary and continues to next round. 
+ThundurusIncarnate Forme defeats Flygon.
+Palkia defeats Malamar.
+Mewtwo defeats AbsolMega Absol.
+Xerneas is legendary and continues to next round. 
+GalladeMega Gallade defeats Garbodor.
+Heatran is legendary and continues to next round. 
+Jolteon defeats Ponyta.
+Yveltal finally vanquishes legendary Regirock.
+LandorusTherian Forme is legendary and continues to next round. 
+Golduck finally vanquishes legendary Uxie.
+Virizion is legendary and continues to next round. 
+KyuremWhite Kyurem is legendary and continues to next round. 
+Accelgor defeats Venomoth.
+Groudon is legendary and continues to next round. 
+Jirachi is legendary and continues to next round. 
+Arceus defeats SalamenceMega Salamence.
+Jynx defeats Gothitelle.
+Volcanion is legendary and continues to next round. 
+Nidoking defeats AegislashBlade Forme.
+GiratinaAltered Forme is legendary and continues to next round. 
+Regice is legendary and continues to next round. 
+Latios is legendary and continues to next round. 
+Gyarados finally vanquishes legendary DeoxysDefense Forme.
+HoopaHoopa Confined is legendary and continues to next round. 
+DeoxysNormal Forme defeats Furfrou.
+LandorusIncarnate Forme is legendary and continues to next round. 
+Starmie defeats Primeape.
+Liepard defeats Genesect.
+Kyogre is legendary and continues to next round. 
+KyuremBlack Kyurem is legendary and continues to next round. 
+Weavile defeats BlazikenMega Blaziken.
+SceptileMega Sceptile defeats Bayleef.
+AerodactylMega Aerodactyl defeats Noivern.
+Terrakion is legendary and continues to next round. 
+Regigigas is legendary and continues to next round. 
+MeloettaAria Forme defeats GourgeistAverage Size.
+HoopaHoopa Unbound is legendary and continues to next round. 
+Zapdos is legendary and continues to next round. 
+Tangela finally vanquishes legendary Articuno.
+Slaking defeats Altaria.
+GardevoirMega Gardevoir defeats Kadabra.
+Rayquaza is legendary and continues to next round. 
+Zygarde50% Forme is legendary and continues to next round. 
+ShayminSky Forme defeats Larvesta.
+BeedrillMega Beedrill defeats Dedenne.
+
+
+Round 5:
+Combatants: 105
+-----Leaders-----
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+Ninjask     [Type: Bug/Flying][ HP: 61]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+Accelgor     [Type: Bug][ HP: 80]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+
+Begin!
+DeoxysSpeed Forme automatically advances.
+HoopaHoopa Unbound is legendary and continues to next round. 
+Cobalion is legendary and continues to next round. 
+Accelgor finally vanquishes legendary HoopaHoopa Confined.
+Latios is legendary and continues to next round. 
+Jirachi finally vanquishes legendary Entei.
+Lugia is legendary and continues to next round. 
+LatiasMega Latias finally vanquishes legendary KyuremWhite Kyurem.
+Reshiram is legendary and continues to next round. 
+GardevoirMega Gardevoir is legendary and continues to next round. 
+MeowsticFemale finally vanquishes legendary ShayminLand Forme.
+Golduck is legendary and continues to next round. 
+Jynx is legendary and continues to next round. 
+LandorusIncarnate Forme is legendary and continues to next round. 
+MeloettaAria Forme finally vanquishes legendary Zapdos.
+Dialga is legendary and continues to next round. 
+Mesprit is legendary and continues to next round. 
+Virizion is legendary and continues to next round. 
+DeoxysAttack Forme is legendary and continues to next round. 
+Yveltal is legendary and continues to next round. 
+Porygon-Z finally vanquishes legendary KyuremBlack Kyurem.
+Kyurem is legendary and continues to next round. 
+Volcanion is legendary and continues to next round. 
+GroudonPrimal Groudon is legendary and continues to next round. 
+Haxorus is legendary and continues to next round. 
+Froslass is legendary and continues to next round. 
+Heatran is legendary and continues to next round. 
+LatiosMega Latios is legendary and continues to next round. 
+ShayminSky Forme is legendary and continues to next round. 
+Tangela is legendary and continues to next round. 
+ThundurusTherian Forme finally vanquishes legendary Regice.
+Palkia is legendary and continues to next round. 
+VenusaurMega Venusaur is legendary and continues to next round. 
+MeloettaPirouette Forme finally vanquishes legendary Terrakion.
+Latias is legendary and continues to next round. 
+Zygarde50% Forme is legendary and continues to next round. 
+Whimsicott finally vanquishes legendary LandorusTherian Forme.
+Moltres is legendary and continues to next round. 
+TornadusIncarnate Forme is legendary and continues to next round. 
+Grovyle is legendary and continues to next round. 
+Kyogre finally vanquishes legendary GiratinaAltered Forme.
+Groudon finally vanquishes legendary Suicune.
+Diancie is legendary and continues to next round. 
+Manaphy is legendary and continues to next round. 
+Garchomp finally vanquishes legendary Xerneas.
+GiratinaOrigin Forme is legendary and continues to next round. 
+Darkrai is legendary and continues to next round. 
+Victini is legendary and continues to next round. 
+Salamence is legendary and continues to next round. 
+Magmar is legendary and continues to next round. 
+Zekrom finally vanquishes legendary Rayquaza.
+Electabuzz is legendary and continues to next round. 
+Crobat is legendary and continues to next round. 
+
+
+Round 6:
+Combatants: 92
+-----Leaders-----
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+Ninjask     [Type: Bug/Flying][ HP: 61]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+SceptileMega Sceptile     [Type: Grass/Dragon][ HP: 70]
+Jolteon     [Type: Electric][ HP: 65]
+
+Begin!
+Ho-oh is legendary and continues to next round. 
+TornadusIncarnate Forme is legendary and continues to next round. 
+Darkrai is legendary and continues to next round. 
+Nidoking is legendary and continues to next round. 
+Jolteon finally vanquishes legendary Heatran.
+MeowsticFemale is legendary and continues to next round. 
+Salamence is legendary and continues to next round. 
+SharpedoMega Sharpedo finally vanquishes legendary Jirachi.
+GlalieMega Glalie is legendary and continues to next round. 
+Palkia is legendary and continues to next round. 
+DiancieMega Diancie is legendary and continues to next round. 
+Arceus finally vanquishes legendary Kyogre.
+VenusaurMega Venusaur is legendary and continues to next round. 
+Haxorus is legendary and continues to next round. 
+Slaking is legendary and continues to next round. 
+Yveltal finally vanquishes legendary Mesprit.
+ShayminSky Forme is legendary and continues to next round. 
+Accelgor is legendary and continues to next round. 
+Whimsicott finally vanquishes legendary Volcanion.
+Zygarde50% Forme is legendary and continues to next round. 
+Golduck is legendary and continues to next round. 
+Azelf finally vanquishes legendary Dialga.
+ThundurusTherian Forme is legendary and continues to next round. 
+Kyurem is legendary and continues to next round. 
+Froslass is legendary and continues to next round. 
+Moltres is legendary and continues to next round. 
+LandorusIncarnate Forme is legendary and continues to next round. 
+Groudon is legendary and continues to next round. 
+Mightyena is legendary and continues to next round. 
+Regigigas is legendary and continues to next round. 
+Latios finally vanquishes legendary Diancie.
+Zekrom is legendary and continues to next round. 
+Latias finally vanquishes legendary Reshiram.
+Raikou is legendary and continues to next round. 
+Lugia is legendary and continues to next round. 
+Manaphy is legendary and continues to next round. 
+Jynx finally vanquishes legendary GroudonPrimal Groudon.
+Grovyle is legendary and continues to next round. 
+Cobalion is legendary and continues to next round. 
+BeedrillMega Beedrill is legendary and continues to next round. 
+Crobat is legendary and continues to next round. 
+GiratinaOrigin Forme is legendary and continues to next round. 
+HoopaHoopa Unbound is legendary and continues to next round. 
+Tangela is legendary and continues to next round. 
+Porygon-Z is legendary and continues to next round. 
+Magmar is legendary and continues to next round. 
+
+
+Round 7:
+Combatants: 83
+-----Leaders-----
+Scolipede     [Type: Bug/Poison][ HP: 60]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+Greninja     [Type: Water/Dark][ HP: 72]
+Ninjask     [Type: Bug/Flying][ HP: 61]
+
+Begin!
+Scolipede automatically advances.
+BeedrillMega Beedrill is legendary and continues to next round. 
+Tangela is legendary and continues to next round. 
+Darkrai finally vanquishes legendary Regigigas.
+Starmie finally vanquishes legendary GiratinaOrigin Forme.
+Whimsicott finally vanquishes legendary HoopaHoopa Unbound.
+Zekrom is legendary and continues to next round. 
+Nidoking is legendary and continues to next round. 
+ThundurusTherian Forme is legendary and continues to next round. 
+Grovyle is legendary and continues to next round. 
+MeloettaPirouette Forme finally vanquishes legendary LandorusIncarnate Forme.
+MeowsticFemale finally vanquishes legendary Latios.
+Electabuzz is legendary and continues to next round. 
+Froslass is legendary and continues to next round. 
+Gyarados is legendary and continues to next round. 
+Haxorus is legendary and continues to next round. 
+VenusaurMega Venusaur is legendary and continues to next round. 
+Mightyena is legendary and continues to next round. 
+Purugly is legendary and continues to next round. 
+Jynx is legendary and continues to next round. 
+ShayminSky Forme is legendary and continues to next round. 
+Ninjask is legendary and continues to next round. 
+Talonflame is legendary and continues to next round. 
+Crobat is legendary and continues to next round. 
+Gengar is legendary and continues to next round. 
+Virizion is legendary and continues to next round. 
+Garchomp is legendary and continues to next round. 
+Jolteon is legendary and continues to next round. 
+LatiasMega Latias is legendary and continues to next round. 
+Delphox finally vanquishes legendary Kyurem.
+Yveltal is legendary and continues to next round. 
+Salamence is legendary and continues to next round. 
+DeoxysSpeed Forme finally vanquishes legendary Zygarde50% Forme.
+Moltres is legendary and continues to next round. 
+Porygon-Z is legendary and continues to next round. 
+Slaking is legendary and continues to next round. 
+Raikou is legendary and continues to next round. 
+TornadusIncarnate Forme finally vanquishes legendary Lugia.
+ThundurusIncarnate Forme finally vanquishes legendary Cobalion.
+Groudon is legendary and continues to next round. 
+DiancieMega Diancie is legendary and continues to next round. 
+Manaphy is legendary and continues to next round. 
+
+
+Round 8:
+Combatants: 74
+-----Leaders-----
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+Greninja     [Type: Water/Dark][ HP: 72]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+
+Begin!
+Crobat finally vanquishes heroic Haxorus.
+Palkia finally vanquishes heroic Tangela.
+Darkrai is legendary and continues to next round. 
+Jolteon is legendary and continues to next round. 
+Raikou finally vanquishes legendary Yveltal.
+Slaking finally vanquishes heroic VenusaurMega Venusaur.
+Victini is legendary and continues to next round. 
+MewtwoMega Mewtwo X finally vanquishes legendary Groudon.
+Magmar is legendary and continues to next round. 
+MewtwoMega Mewtwo Y finally vanquishes legendary Zekrom.
+GlalieMega Glalie is legendary and continues to next round. 
+Liepard is legendary and continues to next round. 
+ThundurusTherian Forme finally vanquishes legendary Moltres.
+Talonflame is legendary and continues to next round. 
+Latias is legendary and continues to next round. 
+Mightyena is legendary and continues to next round. 
+Golduck finally vanquishes heroic Salamence.
+LatiasMega Latias finally vanquishes heroic Grovyle.
+ThundurusIncarnate Forme finally vanquishes heroic Manaphy.
+AerodactylMega Aerodactyl finally vanquishes heroic Froslass.
+Accelgor is legendary and continues to next round. 
+Ho-oh is legendary and continues to next round. 
+Mewtwo finally vanquishes legendary Virizion.
+Whimsicott is legendary and continues to next round. 
+Porygon-Z is legendary and continues to next round. 
+TornadusIncarnate Forme is legendary and continues to next round. 
+DarmanitanStandard Mode finally vanquishes legendary ShayminSky Forme.
+Plusle is legendary and continues to next round. 
+Ninjask is legendary and continues to next round. 
+TornadusTherian Forme is legendary and continues to next round. 
+BeedrillMega Beedrill is legendary and continues to next round. 
+SharpedoMega Sharpedo is legendary and continues to next round. 
+Jynx is legendary and continues to next round. 
+DiancieMega Diancie is legendary and continues to next round. 
+Nidoking is legendary and continues to next round. 
+MeloettaAria Forme is legendary and continues to next round. 
+Gyarados is legendary and continues to next round. 
+
+
+Round 9:
+Combatants: 61
+-----Leaders-----
+Weavile     [Type: Dark/Ice][ HP: 70]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+SceptileMega Sceptile     [Type: Grass/Dragon][ HP: 70]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+Greninja     [Type: Water/Dark][ HP: 72]
+
+Begin!
+Weavile automatically advances.
+MeowsticFemale is legendary and continues to next round. 
+SharpedoMega Sharpedo is legendary and continues to next round. 
+DeoxysNormal Forme finally vanquishes heroic Nidoking.
+Slaking is legendary and continues to next round. 
+Gyarados is legendary and continues to next round. 
+Garchomp finally vanquishes legendary TornadusIncarnate Forme.
+SceptileMega Sceptile finally vanquishes heroic Magmar.
+DarmanitanStandard Mode finally vanquishes legendary Ho-oh.
+Mewtwo finally vanquishes legendary ThundurusTherian Forme.
+Electabuzz is legendary and continues to next round. 
+Gengar is legendary and continues to next round. 
+Ninjask is legendary and continues to next round. 
+MeloettaPirouette Forme is legendary and continues to next round. 
+Arceus finally vanquishes heroic BeedrillMega Beedrill.
+Mightyena finally vanquishes heroic Porygon-Z.
+Victini is legendary and continues to next round. 
+Raikou is legendary and continues to next round. 
+Plusle is legendary and continues to next round. 
+Purugly is legendary and continues to next round. 
+LatiasMega Latias is legendary and continues to next round. 
+Whimsicott is legendary and continues to next round. 
+Palkia is legendary and continues to next round. 
+Darkrai finally vanquishes heroic Jynx.
+GlalieMega Glalie is legendary and continues to next round. 
+GardevoirMega Gardevoir is legendary and continues to next round. 
+Talonflame finally vanquishes heroic Crobat.
+LatiosMega Latios is legendary and continues to next round. 
+Golduck is legendary and continues to next round. 
+MeloettaAria Forme is legendary and continues to next round. 
+Scolipede is legendary and continues to next round. 
+
+
+Round 10:
+Combatants: 52
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+MewtwoMega Mewtwo X     [Type: Psychic/Fighting][ HP: 106]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+
+Begin!
+TornadusTherian Forme finally vanquishes heroic Mightyena.
+Plusle is legendary and continues to next round. 
+SceptileMega Sceptile is legendary and continues to next round. 
+Scolipede finally vanquishes legendary Darkrai.
+LatiasMega Latias is legendary and continues to next round. 
+MeowsticFemale is legendary and continues to next round. 
+Purugly finally vanquishes heroic Slaking.
+Latias is legendary and continues to next round. 
+ThundurusIncarnate Forme finally vanquishes heroic Gyarados.
+MeloettaAria Forme is legendary and continues to next round. 
+Whimsicott is legendary and continues to next round. 
+Delphox finally vanquishes legendary DiancieMega Diancie.
+LatiosMega Latios is legendary and continues to next round. 
+MewtwoMega Mewtwo Y is legendary and continues to next round. 
+Liepard finally vanquishes heroic Golduck.
+Jolteon is legendary and continues to next round. 
+DeoxysAttack Forme finally vanquishes heroic Electabuzz.
+Greninja finally vanquishes legendary Raikou.
+Gengar is legendary and continues to next round. 
+GalladeMega Gallade finally vanquishes legendary Palkia.
+KyogrePrimal Kyogre is legendary and continues to next round. 
+LucarioMega Lucario is legendary and continues to next round. 
+DarmanitanStandard Mode finally vanquishes heroic GlalieMega Glalie.
+Talonflame is legendary and continues to next round. 
+Azelf finally vanquishes legendary Victini.
+SharpedoMega Sharpedo is legendary and continues to next round. 
+
+
+Round 11:
+Combatants: 41
+-----Leaders-----
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+
+Begin!
+AerodactylMega Aerodactyl automatically advances.
+ThundurusIncarnate Forme is legendary and continues to next round. 
+MewtwoMega Mewtwo Y is legendary and continues to next round. 
+Delphox finally vanquishes heroic Gengar.
+DeoxysSpeed Forme finally vanquishes heroic Ninjask.
+MeloettaPirouette Forme is legendary and continues to next round. 
+Liepard is legendary and continues to next round. 
+DarmanitanStandard Mode is legendary and continues to next round. 
+GardevoirMega Gardevoir is legendary and continues to next round. 
+LucarioMega Lucario is legendary and continues to next round. 
+Mewtwo finally vanquishes heroic Jolteon.
+Purugly is legendary and continues to next round. 
+LatiosMega Latios finally vanquishes legendary LatiasMega Latias.
+Garchomp is legendary and continues to next round. 
+KyogrePrimal Kyogre finally vanquishes heroic Talonflame.
+TornadusTherian Forme finally vanquishes heroic Plusle.
+RayquazaMega Rayquaza finally vanquishes heroic MeowsticFemale.
+Greninja finally vanquishes legendary Latias.
+Scolipede is legendary and continues to next round. 
+MewtwoMega Mewtwo X finally vanquishes heroic MeloettaAria Forme.
+SharpedoMega Sharpedo finally vanquishes heroic Whimsicott.
+
+
+Round 12:
+Combatants: 31
+-----Leaders-----
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Accelgor     [Type: Bug][ HP: 80]
+
+Begin!
+DeoxysNormal Forme automatically advances.
+AerodactylMega Aerodactyl finally vanquishes legendary LatiosMega Latios.
+MewtwoMega Mewtwo X is legendary and continues to next round. 
+LucarioMega Lucario is legendary and continues to next round. 
+Delphox is legendary and continues to next round. 
+Garchomp is legendary and continues to next round. 
+DarmanitanStandard Mode is legendary and continues to next round. 
+Liepard is legendary and continues to next round. 
+MeloettaPirouette Forme is legendary and continues to next round. 
+Starmie finally vanquishes heroic Purugly.
+Accelgor finally vanquishes heroic SharpedoMega Sharpedo.
+GalladeMega Gallade is legendary and continues to next round. 
+KyogrePrimal Kyogre is legendary and continues to next round. 
+Scolipede is legendary and continues to next round. 
+TornadusTherian Forme finally vanquishes heroic GardevoirMega Gardevoir.
+ThundurusIncarnate Forme is legendary and continues to next round. 
+
+
+Round 13:
+Combatants: 27
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+Arceus     [Type: Normal][ HP: 120]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+AerodactylMega Aerodactyl     [Type: Rock/Flying][ HP: 80]
+
+Begin!
+PidgeotMega Pidgeot automatically advances.
+Delphox is legendary and continues to next round. 
+DeoxysNormal Forme finally vanquishes heroic LucarioMega Lucario.
+KyogrePrimal Kyogre finally vanquishes heroic Scolipede.
+AerodactylMega Aerodactyl is legendary and continues to next round. 
+DarmanitanStandard Mode finally vanquishes heroic Garchomp.
+MewtwoMega Mewtwo X is legendary and continues to next round. 
+MewtwoMega Mewtwo Y is legendary and continues to next round. 
+DeoxysSpeed Forme finally vanquishes heroic Liepard.
+SceptileMega Sceptile is legendary and continues to next round. 
+ThundurusIncarnate Forme is legendary and continues to next round. 
+TornadusTherian Forme is legendary and continues to next round. 
+DeoxysAttack Forme finally vanquishes heroic MeloettaPirouette Forme.
+Starmie is legendary and continues to next round. 
+
+
+Round 14:
+Combatants: 22
+-----Leaders-----
+Accelgor     [Type: Bug][ HP: 80]
+Arceus     [Type: Normal][ HP: 120]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+Weavile     [Type: Dark/Ice][ HP: 70]
+
+Begin!
+Arceus finally vanquishes legendary MewtwoMega Mewtwo Y.
+Delphox is legendary and continues to next round. 
+DeoxysSpeed Forme is legendary and continues to next round. 
+GalladeMega Gallade is legendary and continues to next round. 
+Azelf is legendary and continues to next round. 
+KyogrePrimal Kyogre is legendary and continues to next round. 
+TornadusTherian Forme is legendary and continues to next round. 
+DarmanitanStandard Mode finally vanquishes legendary ThundurusIncarnate Forme.
+SceptileMega Sceptile is legendary and continues to next round. 
+Mewtwo is legendary and continues to next round. 
+MewtwoMega Mewtwo X is legendary and continues to next round. 
+
+
+Round 15:
+Combatants: 20
+-----Leaders-----
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+Accelgor     [Type: Bug][ HP: 80]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+Greninja     [Type: Water/Dark][ HP: 72]
+
+Begin!
+DarmanitanStandard Mode is legendary and continues to next round. 
+Weavile finally vanquishes legendary TornadusTherian Forme.
+MewtwoMega Mewtwo X finally vanquishes legendary KyogrePrimal Kyogre.
+AerodactylMega Aerodactyl is legendary and continues to next round. 
+GalladeMega Gallade is legendary and continues to next round. 
+Greninja is legendary and continues to next round. 
+Mewtwo is legendary and continues to next round. 
+Starmie is legendary and continues to next round. 
+RayquazaMega Rayquaza finally vanquishes heroic Delphox.
+DeoxysNormal Forme finally vanquishes heroic SceptileMega Sceptile.
+
+
+Round 16:
+Combatants: 16
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Accelgor     [Type: Bug][ HP: 80]
+DeoxysSpeed Forme     [Type: Psychic][ HP: 50]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+
+Begin!
+DeoxysSpeed Forme is legendary and continues to next round. 
+DeoxysNormal Forme is legendary and continues to next round. 
+MewtwoMega Mewtwo X finally vanquishes heroic DarmanitanStandard Mode.
+Starmie is legendary and continues to next round. 
+Weavile is legendary and continues to next round. 
+AerodactylMega Aerodactyl is legendary and continues to next round. 
+Mewtwo is legendary and continues to next round. 
+Azelf finally vanquishes heroic GalladeMega Gallade.
+
+
+Round 17:
+Combatants: 14
+-----Leaders-----
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+Accelgor     [Type: Bug][ HP: 80]
+Arceus     [Type: Normal][ HP: 120]
+RayquazaMega Rayquaza     [Type: Dragon/Flying][ HP: 105]
+
+Begin!
+Weavile is legendary and continues to next round. 
+DeoxysSpeed Forme finally vanquishes legendary Mewtwo.
+DeoxysAttack Forme finally vanquishes legendary MewtwoMega Mewtwo X.
+RayquazaMega Rayquaza is legendary and continues to next round. 
+Greninja is legendary and continues to next round. 
+Arceus finally vanquishes heroic Starmie.
+Azelf finally vanquishes heroic AerodactylMega Aerodactyl.
+
+
+Round 18:
+Combatants: 10
+-----Leaders-----
+Accelgor     [Type: Bug][ HP: 80]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Arceus     [Type: Normal][ HP: 120]
+DeoxysNormal Forme     [Type: Psychic][ HP: 50]
+
+Begin!
+Weavile is legendary and continues to next round. 
+DeoxysNormal Forme is legendary and continues to next round. 
+RayquazaMega Rayquaza is legendary and continues to next round. 
+Azelf is legendary and continues to next round. 
+DeoxysSpeed Forme is legendary and continues to next round. 
+
+
+Round 19:
+Combatants: 10
+-----Leaders-----
+Accelgor     [Type: Bug][ HP: 80]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+Arceus     [Type: Normal][ HP: 120]
+Greninja     [Type: Water/Dark][ HP: 72]
+
+Begin!
+Accelgor finally vanquishes legendary DeoxysSpeed Forme.
+DeoxysAttack Forme finally vanquishes heroic Weavile.
+RayquazaMega Rayquaza is legendary and continues to next round. 
+Azelf is legendary and continues to next round. 
+DeoxysNormal Forme is legendary and continues to next round. 
+
+
+Round 20:
+Combatants: 8
+-----Leaders-----
+Accelgor     [Type: Bug][ HP: 80]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Arceus     [Type: Normal][ HP: 120]
+Greninja     [Type: Water/Dark][ HP: 72]
+
+Begin!
+Greninja is legendary and continues to next round. 
+Arceus finally vanquishes legendary Azelf.
+DeoxysAttack Forme finally vanquishes legendary RayquazaMega Rayquaza.
+PidgeotMega Pidgeot finally vanquishes legendary DeoxysNormal Forme.
+
+
+Round 21:
+Combatants: 5
+-----Leaders-----
+Accelgor     [Type: Bug][ HP: 80]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+Arceus     [Type: Normal][ HP: 120]
+
+Begin!
+Accelgor automatically advances.
+DeoxysAttack Forme finally vanquishes heroic Greninja.
+Arceus is legendary and continues to next round. 
+
+
+Round 22:
+Combatants: 4
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Accelgor     [Type: Bug][ HP: 80]
+Arceus     [Type: Normal][ HP: 120]
+
+Begin!
+Arceus is legendary and continues to next round. 
+Accelgor is legendary and continues to next round. 
+
+
+Round 23:
+Combatants: 4
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Accelgor     [Type: Bug][ HP: 80]
+Arceus     [Type: Normal][ HP: 120]
+
+Begin!
+Arceus is legendary and continues to next round. 
+PidgeotMega Pidgeot finally vanquishes heroic Accelgor.
+
+
+Round 24:
+Combatants: 3
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+Arceus     [Type: Normal][ HP: 120]
+
+Begin!
+PidgeotMega Pidgeot automatically advances.
+DeoxysAttack Forme finally vanquishes legendary Arceus.
+
+
+Round 25:
+Combatants: 2
+-----Leaders-----
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+
+PidgeotMega Pidgeot is legendary and continues to next round. 
+
+
+Round 26:
+Combatants: 2
+-----Leaders-----
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+
+PidgeotMega Pidgeot is legendary and continues to next round. 
+
+
+Round 27:
+Combatants: 2
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+
+DeoxysAttack Forme is legendary and continues to next round. 
+
+
+Round 28:
+Combatants: 2
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+
+DeoxysAttack Forme is legendary and continues to next round. 
+
+
+Round 29:
+Combatants: 2
+-----Leaders-----
+PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
+DeoxysAttack Forme     [Type: Psychic][ HP: 50]
+
+PidgeotMega Pidgeot finally vanquishes legendary DeoxysAttack Forme.
+And the final survivor is: PidgeotMega Pidgeot     [Type: Normal/Flying][ HP: 83]
